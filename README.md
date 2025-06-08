@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Quinn. I'm a developer, hobbiest barrista and volleyball coach. Take a look around, or just enjoy some photos of my latte art.
+
+<img src="https://github.com/user-attachments/assets/b0e1947d-372b-4816-b3f8-897bb2c2a420" height="400" />
+<img src="https://github.com/user-attachments/assets/49e3f24f-c8b2-4416-bef4-d093efd8364e" height="400" />
+
 <!--
 **Quinn1876/Quinn1876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +17,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
